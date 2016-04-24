@@ -1,4 +1,4 @@
-# A basic webpack project
+# Our next webpack project
 
 This is the most basic webpack project you will find. It's what I made for my blogpost called [webpack is not as hard as you think](http://jilles.me/webpack-is-not-that-complicated/).
 
